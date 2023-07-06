@@ -23,3 +23,5 @@ This is a quiz application built with JavaScript, CSS, and HTML that tests your 
 
    ```shell
    git clone <[repository-url](https://github.com/NaesSnippit/WOOO-quiztime)https://github.com/NaesSnippit/WOOO-quiztime>
+OR:
+https://naequiz.tiiny.site/ 
