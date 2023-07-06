@@ -13,6 +13,9 @@ This is a quiz application built with JavaScript, CSS, and HTML that tests your 
 - JavaScript
 - CSS
 - HTML
+  ![Screenshot (45)](https://github.com/NaesSnippit/WOOO-quiztime/assets/120901516/fa350dd8-4ac0-4377-91e4-e8505ee173f1)
+![Screenshot (44)](https://github.com/NaesSnippit/WOOO-quiztime/assets/120901516/42a01d07-bf55-4fca-be3e-3f4fac2c1b77)
+
 
 ## Usage
 
